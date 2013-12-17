@@ -7,6 +7,10 @@ bin/
 # Thirdparty libries
 Engine/extlibs/
 
+# Log files
+Engine/tools/idlcompiler/logfiles/
+
+
 # CMake files for non out-of-source build
 CMakeCache.txt
 CMakeFiles/
